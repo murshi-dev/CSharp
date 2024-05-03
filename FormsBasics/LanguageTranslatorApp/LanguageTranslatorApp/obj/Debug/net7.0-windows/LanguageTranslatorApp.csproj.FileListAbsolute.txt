@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\bin\Debug\net7.0-windows\LanguageTranslatorApp.exe
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\bin\Debug\net7.0-windows\LanguageTranslatorApp.deps.json
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\bin\Debug\net7.0-windows\LanguageTranslatorApp.runtimeconfig.json
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\bin\Debug\net7.0-windows\LanguageTranslatorApp.dll
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\bin\Debug\net7.0-windows\LanguageTranslatorApp.pdb
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.Form1.resources
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.dll
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\refint\LanguageTranslatorApp.dll
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.pdb
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\LanguageTranslatorApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LanguageTranslatorApp\LanguageTranslatorApp\obj\Debug\net7.0-windows\ref\LanguageTranslatorApp.dll

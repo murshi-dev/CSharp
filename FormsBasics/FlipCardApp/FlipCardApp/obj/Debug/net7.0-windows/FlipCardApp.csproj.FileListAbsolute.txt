@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\bin\Debug\net7.0-windows\FlipCardApp.exe
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\bin\Debug\net7.0-windows\FlipCardApp.deps.json
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\bin\Debug\net7.0-windows\FlipCardApp.runtimeconfig.json
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\bin\Debug\net7.0-windows\FlipCardApp.dll
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\bin\Debug\net7.0-windows\FlipCardApp.pdb
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.Form1.resources
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.dll
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\refint\FlipCardApp.dll
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.pdb
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\FlipCardApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FlipCardApp\FlipCardApp\obj\Debug\net7.0-windows\ref\FlipCardApp.dll

@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\bin\Debug\net7.0-windows\FlagsAndCountriesApp.exe
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\bin\Debug\net7.0-windows\FlagsAndCountriesApp.deps.json
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\bin\Debug\net7.0-windows\FlagsAndCountriesApp.runtimeconfig.json
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\bin\Debug\net7.0-windows\FlagsAndCountriesApp.dll
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\bin\Debug\net7.0-windows\FlagsAndCountriesApp.pdb
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.Form1.resources
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.dll
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\refint\FlagsAndCountriesApp.dll
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.pdb
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\FlagsAndCountriesApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FlagsAndCountriesApp\FlagsAndCountriesApp\obj\Debug\net7.0-windows\ref\FlagsAndCountriesApp.dll

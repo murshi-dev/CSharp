@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\bin\Debug\net7.0-windows\PresidentialTriviaApp.exe
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\bin\Debug\net7.0-windows\PresidentialTriviaApp.deps.json
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\bin\Debug\net7.0-windows\PresidentialTriviaApp.runtimeconfig.json
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\bin\Debug\net7.0-windows\PresidentialTriviaApp.dll
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\bin\Debug\net7.0-windows\PresidentialTriviaApp.pdb
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.Form1.resources
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.dll
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\refint\PresidentialTriviaApp.dll
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.pdb
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\PresidentialTriviaApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PresidentialTriviaApp\PresidentialTriviaApp\obj\Debug\net7.0-windows\ref\PresidentialTriviaApp.dll

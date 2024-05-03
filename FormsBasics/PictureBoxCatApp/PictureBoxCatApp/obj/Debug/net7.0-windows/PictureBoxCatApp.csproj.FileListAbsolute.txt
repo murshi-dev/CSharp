@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\bin\Debug\net7.0-windows\PictureBoxCatApp.exe
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\bin\Debug\net7.0-windows\PictureBoxCatApp.deps.json
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\bin\Debug\net7.0-windows\PictureBoxCatApp.runtimeconfig.json
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\bin\Debug\net7.0-windows\PictureBoxCatApp.dll
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\bin\Debug\net7.0-windows\PictureBoxCatApp.pdb
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.Form1.resources
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.dll
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\refint\PictureBoxCatApp.dll
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.pdb
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\PictureBoxCatApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PictureBoxCatApp\PictureBoxCatApp\obj\Debug\net7.0-windows\ref\PictureBoxCatApp.dll
