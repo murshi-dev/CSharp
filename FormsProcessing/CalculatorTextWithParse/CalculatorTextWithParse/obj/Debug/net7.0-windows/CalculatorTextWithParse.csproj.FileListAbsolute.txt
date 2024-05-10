@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\bin\Debug\net7.0-windows\CalculatorTextWithParse.exe
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\bin\Debug\net7.0-windows\CalculatorTextWithParse.deps.json
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\bin\Debug\net7.0-windows\CalculatorTextWithParse.runtimeconfig.json
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\bin\Debug\net7.0-windows\CalculatorTextWithParse.dll
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\bin\Debug\net7.0-windows\CalculatorTextWithParse.pdb
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.Form1.resources
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.dll
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\refint\CalculatorTextWithParse.dll
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.pdb
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\CalculatorTextWithParse.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CalculatorTextWithParse\CalculatorTextWithParse\obj\Debug\net7.0-windows\ref\CalculatorTextWithParse.dll

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.exe
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.deps.json
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.dll
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.pdb
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.Form1.resources
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.dll
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\refint\TextBoxDemo.dll
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.pdb
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\ref\TextBoxDemo.dll
