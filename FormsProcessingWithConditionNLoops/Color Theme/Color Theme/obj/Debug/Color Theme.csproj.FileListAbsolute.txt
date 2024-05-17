@@ -1,0 +1,20 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\bin\Debug\Color Theme.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color Theme.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color_Theme.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color_Theme.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color Theme.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Color Theme\Color Theme\obj\Debug\Color Theme.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\bin\Debug\Color Theme.exe.config
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color_Theme.Form1.resources
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color_Theme.Properties.Resources.resources
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color Theme.exe
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c6\class codes\Color Theme\Color Theme\obj\Debug\Color Theme.pdb
