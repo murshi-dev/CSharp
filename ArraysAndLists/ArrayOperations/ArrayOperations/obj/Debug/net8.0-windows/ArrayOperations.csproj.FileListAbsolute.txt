@@ -1,0 +1,32 @@
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.exe
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.deps.json
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.runtimeconfig.json
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.dll
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.pdb
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.Form1.resources
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.dll
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\refint\ArrayOperations.dll
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.pdb
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ref\ArrayOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.exe
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.deps.json
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.runtimeconfig.json
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\bin\Debug\net8.0-windows\ArrayOperations.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.Form1.resources
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\refint\ArrayOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ArrayOperations.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ArrayOperations\ArrayOperations\obj\Debug\net8.0-windows\ref\ArrayOperations.dll
