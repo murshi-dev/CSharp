@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ProductsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|c:\\users\\admin\\desktop\\productsapp\\productsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|C:\\Users\\Admin\\Desktop\\ProductsApp\\productsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|c:\\users\\admin\\desktop\\productsapp\\productsapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|c:\\users\\admin\\desktop\\productsapp\\productsapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33743A5E-1272-4175-BC5A-3192AEF110AC}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\Form1.cs",
+              "RelativeToolTip": "ProductsApp\\Form1.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAmwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:18:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\AppDbContext.cs",
+              "RelativeToolTip": "ProductsApp\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:15:34.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\Product.cs",
+              "RelativeToolTip": "ProductsApp\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:14:39.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProductsApp\\ProductsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:44:19.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
