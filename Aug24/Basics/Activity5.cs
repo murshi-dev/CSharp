@@ -12,9 +12,5 @@ class Activity5
         double discountedPrice = originalPrice - discountAmount; // Calculate discounted price
 
         Console.WriteLine($"Amount to be paid after 20% discount: {discountedPrice}"); // Output the result
-
-
-
-
     }
 }
