@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\bin\Debug\net8.0-windows\PresidentTrivia.exe
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\bin\Debug\net8.0-windows\PresidentTrivia.deps.json
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\bin\Debug\net8.0-windows\PresidentTrivia.runtimeconfig.json
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\bin\Debug\net8.0-windows\PresidentTrivia.dll
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\bin\Debug\net8.0-windows\PresidentTrivia.pdb
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.Form1.resources
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.dll
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\refint\PresidentTrivia.dll
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.pdb
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\PresidentTrivia.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PresidentTrivia\PresidentTrivia\obj\Debug\net8.0-windows\ref\PresidentTrivia.dll
