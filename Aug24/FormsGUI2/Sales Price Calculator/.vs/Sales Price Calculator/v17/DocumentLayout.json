@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\chapter 5 class activity\\Sales Price Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383EFB31-E0DF-44CE-B548-2D0EB5510DDF}|Sales Price Calculator\\Sales Price Calculator.csproj|c:\\users\\admin\\desktop\\ead3314 enterprise application development\\lecture notes\\c5 gui forms2 with exception handling\\chapter 5 class activity\\sales price calculator\\sales price calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{383EFB31-E0DF-44CE-B548-2D0EB5510DDF}|Sales Price Calculator\\Sales Price Calculator.csproj|solutionrelative:sales price calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EFB31-E0DF-44CE-B548-2D0EB5510DDF}|Sales Price Calculator\\Sales Price Calculator.csproj|C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\chapter 5 class activity\\Sales Price Calculator\\sales price calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EFB31-E0DF-44CE-B548-2D0EB5510DDF}|Sales Price Calculator\\Sales Price Calculator.csproj|solutionrelative:sales price calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\chapter 5 class activity\\Sales Price Calculator\\Sales Price Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Sales Price Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\chapter 5 class activity\\Sales Price Calculator\\Sales Price Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Sales Price Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:17:31.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\chapter 5 class activity\\Sales Price Calculator\\Sales Price Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Sales Price Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\chapter 5 class activity\\Sales Price Calculator\\Sales Price Calculator\\Program.cs",
+              "RelativeToolTip": "Sales Price Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:17:31.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

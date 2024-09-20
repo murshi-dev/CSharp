@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7571EA-D826-450F-BCB8-91BBC0B552F2}|Average Race Times\\Average Race Times.csproj|C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\average race times\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD7571EA-D826-450F-BCB8-91BBC0B552F2}|Average Race Times\\Average Race Times.csproj|solutionrelative:average race times\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7571EA-D826-450F-BCB8-91BBC0B552F2}|Average Race Times\\Average Race Times.csproj|c:\\users\\admin\\desktop\\ead3314 enterprise application development\\lecture notes\\c5 gui forms2 with exception handling\\class demos\\average race times\\average race times\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7571EA-D826-450F-BCB8-91BBC0B552F2}|Average Race Times\\Average Race Times.csproj|solutionrelative:average race times\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7571EA-D826-450F-BCB8-91BBC0B552F2}|Average Race Times\\Average Race Times.csproj|c:\\users\\admin\\desktop\\ead3314 enterprise application development\\lecture notes\\c5 gui forms2 with exception handling\\class demos\\average race times\\average race times\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7571EA-D826-450F-BCB8-91BBC0B552F2}|Average Race Times\\Average Race Times.csproj|solutionrelative:average race times\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\Average Race Times\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Average Race Times\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\Average Race Times\\Form1.Designer.cs",
+              "RelativeToolTip": "Average Race Times\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:01:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\Average Race Times\\Form1.cs",
+              "RelativeDocumentMoniker": "Average Race Times\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\Average Race Times\\Form1.cs",
+              "RelativeToolTip": "Average Race Times\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:59:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\Average Race Times\\Form1.cs",
+              "RelativeDocumentMoniker": "Average Race Times\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c5 GUI forms2 with exception handling\\class demos\\Average Race Times\\Average Race Times\\Form1.cs [Design]",
+              "RelativeToolTip": "Average Race Times\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:57:15.635Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

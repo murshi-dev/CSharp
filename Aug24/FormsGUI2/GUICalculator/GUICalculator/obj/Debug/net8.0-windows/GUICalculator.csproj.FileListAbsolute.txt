@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\bin\Debug\net8.0-windows\GUICalculator.exe
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\bin\Debug\net8.0-windows\GUICalculator.deps.json
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\bin\Debug\net8.0-windows\GUICalculator.runtimeconfig.json
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\bin\Debug\net8.0-windows\GUICalculator.dll
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\bin\Debug\net8.0-windows\GUICalculator.pdb
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.Form1.resources
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.dll
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\refint\GUICalculator.dll
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.pdb
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\GUICalculator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GUICalculator\GUICalculator\obj\Debug\net8.0-windows\ref\GUICalculator.dll
