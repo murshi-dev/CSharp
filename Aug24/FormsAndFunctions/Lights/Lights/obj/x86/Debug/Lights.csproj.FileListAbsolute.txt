@@ -1,0 +1,29 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\bin\Debug\Lights.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\bin\Debug\Lights.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lights\Lights\obj\x86\Debug\Lights.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\bin\Debug\Lights.exe.config
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c7\activity codes\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\bin\Debug\Lights.exe.config
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c7 modularising\activity codes\Lights\Lights\obj\x86\Debug\Lights.pdb
