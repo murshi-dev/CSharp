@@ -1,0 +1,25 @@
+﻿@page
+@model SampleRazorPageProduct.Pages.ProductsModel
+@{
+}
+<h2>Price Calculator</h2>
+<form method="post">
+	<div>
+		<label>Product Name: </label>
+		<input asp-for="ProductData.PName"/>
+	</div>
+
+	<div>
+		<label>Product Price: </label>
+		<input asp-for="ProductData.PPrice"/>
+	</div>
+
+	<div>
+		<label>Product Quantity: </label>
+		<input asp-for="ProductData.PQuantity"/>
+	</div>
+	<button type="submit">Calculate</button>
+</form>
+<!--display result-->
+<h3>Total 
+	Price: @Model.Total</h3>

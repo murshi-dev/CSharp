@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\bin\Debug\net8.0\SampleAppCSharp.exe
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\bin\Debug\net8.0\SampleAppCSharp.deps.json
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\bin\Debug\net8.0\SampleAppCSharp.runtimeconfig.json
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\bin\Debug\net8.0\SampleAppCSharp.dll
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\bin\Debug\net8.0\SampleAppCSharp.pdb
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.dll
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\refint\SampleAppCSharp.dll
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.pdb
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\SampleAppCSharp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SampleAppCSharp\SampleAppCSharp\obj\Debug\net8.0\ref\SampleAppCSharp.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD12621-BB23-4B5F-8E01-C8D6A7FEBA31}|SampleRazorPageProduct\\SampleRazorPageProduct.csproj|c:\\users\\admin\\source\\repos\\samplerazorpageproduct\\samplerazorpageproduct\\pages\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BD12621-BB23-4B5F-8E01-C8D6A7FEBA31}|SampleRazorPageProduct\\SampleRazorPageProduct.csproj|solutionrelative:samplerazorpageproduct\\pages\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD12621-BB23-4B5F-8E01-C8D6A7FEBA31}|SampleRazorPageProduct\\SampleRazorPageProduct.csproj|c:\\users\\admin\\source\\repos\\samplerazorpageproduct\\samplerazorpageproduct\\pages\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD12621-BB23-4B5F-8E01-C8D6A7FEBA31}|SampleRazorPageProduct\\SampleRazorPageProduct.csproj|solutionrelative:samplerazorpageproduct\\pages\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD12621-BB23-4B5F-8E01-C8D6A7FEBA31}|SampleRazorPageProduct\\SampleRazorPageProduct.csproj|c:\\users\\admin\\source\\repos\\samplerazorpageproduct\\samplerazorpageproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD12621-BB23-4B5F-8E01-C8D6A7FEBA31}|SampleRazorPageProduct\\SampleRazorPageProduct.csproj|solutionrelative:samplerazorpageproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\SampleRazorPageProduct\\Pages\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "SampleRazorPageProduct\\Pages\\Products.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\SampleRazorPageProduct\\Pages\\Products.cshtml.cs",
+              "RelativeToolTip": "SampleRazorPageProduct\\Pages\\Products.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:34:09.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\SampleRazorPageProduct\\Pages\\Products.cshtml",
+              "RelativeDocumentMoniker": "SampleRazorPageProduct\\Pages\\Products.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\SampleRazorPageProduct\\Pages\\Products.cshtml",
+              "RelativeToolTip": "SampleRazorPageProduct\\Pages\\Products.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T03:25:59.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\SampleRazorPageProduct\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SampleRazorPageProduct\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SampleRazorPageProduct\\SampleRazorPageProduct\\Models\\Product.cs",
+              "RelativeToolTip": "SampleRazorPageProduct\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:19:59.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
