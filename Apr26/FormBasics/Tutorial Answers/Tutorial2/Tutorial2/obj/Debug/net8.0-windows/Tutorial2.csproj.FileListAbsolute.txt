@@ -1,0 +1,17 @@
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\bin\Debug\net8.0-windows\Tutorial2.exe
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\bin\Debug\net8.0-windows\Tutorial2.deps.json
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\bin\Debug\net8.0-windows\Tutorial2.runtimeconfig.json
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\bin\Debug\net8.0-windows\Tutorial2.dll
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\bin\Debug\net8.0-windows\Tutorial2.pdb
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.clickableNumber.resources
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.Properties.Resources.resources
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.csproj.GenerateResource.cache
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.dll
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\refint\Tutorial2.dll
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.pdb
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\Tutorial2.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Chapter4(GUI)\Tutorial2\Tutorial2\obj\Debug\net8.0-windows\ref\Tutorial2.dll
