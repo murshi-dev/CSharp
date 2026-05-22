@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.exe
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.deps.json
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.dll
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.pdb
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.Form1.resources
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.dll
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\refint\TextBoxDemo.dll
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.pdb
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\ref\TextBoxDemo.dll
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.exe
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.deps.json
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.dll
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\bin\Debug\net7.0-windows\TextBoxDemo.pdb
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.Form1.resources
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.dll
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\refint\TextBoxDemo.dll
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.pdb
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\TextBoxDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c5 GUI forms2 with exception handling\class demos\TextBoxDemo\TextBoxDemo\obj\Debug\net7.0-windows\ref\TextBoxDemo.dll
