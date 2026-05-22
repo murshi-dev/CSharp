@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c4 new C# Basic GUI using Forms\\Class Activity\\class activity solutions\\Flags\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69DE9BF9-AC58-49EC-9644-E28519FBFFCD}|Flags\\Flags.csproj|c:\\users\\admin\\desktop\\ead3314 enterprise application development\\lecture notes\\c4 new c# basic gui using forms\\class activity\\class activity solutions\\flags\\flags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69DE9BF9-AC58-49EC-9644-E28519FBFFCD}|Flags\\Flags.csproj|solutionrelative:flags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DE9BF9-AC58-49EC-9644-E28519FBFFCD}|Flags\\Flags.csproj|C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c4 new C# Basic GUI using Forms\\Class Activity\\class activity solutions\\Flags\\flags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DE9BF9-AC58-49EC-9644-E28519FBFFCD}|Flags\\Flags.csproj|solutionrelative:flags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c4 new C# Basic GUI using Forms\\Class Activity\\class activity solutions\\Flags\\Flags\\Form1.cs",
+              "RelativeDocumentMoniker": "Flags\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c4 new C# Basic GUI using Forms\\Class Activity\\class activity solutions\\Flags\\Flags\\Form1.cs",
+              "RelativeToolTip": "Flags\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T01:46:15.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c4 new C# Basic GUI using Forms\\Class Activity\\class activity solutions\\Flags\\Flags\\Form1.cs",
+              "RelativeDocumentMoniker": "Flags\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c4 new C# Basic GUI using Forms\\Class Activity\\class activity solutions\\Flags\\Flags\\Form1.cs [Design]",
+              "RelativeToolTip": "Flags\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T01:46:20.414Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c4 new C# Basic GUI using Forms\Class Activity\class activity solutions\PresidentTrivia\PresidentTrivia\obj\Debug\net10.0-windows7.0\PresidentTrivia.Form1.resources
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c4 new C# Basic GUI using Forms\Class Activity\class activity solutions\PresidentTrivia\PresidentTrivia\obj\Debug\net10.0-windows7.0\PresidentTrivia.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD3314 Enterprise Application Development\Lecture Notes\c4 new C# Basic GUI using Forms\Class Activity\class activity solutions\PresidentTrivia\PresidentTrivia\obj\Debug\net10.0-windows7.0\PresidentTrivia.GeneratedMSBuildEditorConfig.editorconfig
