@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c7 modularising\\activity codes\\Lights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE4CB7B-2064-4741-820F-61496B805DCA}|Lights\\Lights.csproj|c:\\users\\admin\\desktop\\ead3314 enterprise application development\\lecture notes\\c7 modularising\\activity codes\\lights\\lights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CE4CB7B-2064-4741-820F-61496B805DCA}|Lights\\Lights.csproj|solutionrelative:lights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c7 modularising\\activity codes\\Lights\\Lights\\Form1.cs",
+              "RelativeDocumentMoniker": "Lights\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EAD3314 Enterprise Application Development\\Lecture Notes\\c7 modularising\\activity codes\\Lights\\Lights\\Form1.cs [Design]",
+              "RelativeToolTip": "Lights\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:04:17.615Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
