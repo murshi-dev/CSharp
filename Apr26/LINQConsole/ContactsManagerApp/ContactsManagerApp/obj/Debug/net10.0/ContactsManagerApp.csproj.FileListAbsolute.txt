@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\bin\Debug\net10.0\ContactsManagerApp.exe
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\bin\Debug\net10.0\ContactsManagerApp.deps.json
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\bin\Debug\net10.0\ContactsManagerApp.runtimeconfig.json
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\bin\Debug\net10.0\ContactsManagerApp.dll
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\bin\Debug\net10.0\ContactsManagerApp.pdb
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.dll
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\refint\ContactsManagerApp.dll
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.pdb
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ContactsManagerApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\samples\ContactsManagerApp\ContactsManagerApp\obj\Debug\net10.0\ref\ContactsManagerApp.dll
