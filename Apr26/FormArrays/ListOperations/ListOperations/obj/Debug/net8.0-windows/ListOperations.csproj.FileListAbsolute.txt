@@ -1,0 +1,32 @@
+C:\Users\Admin\source\repos\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.exe
+C:\Users\Admin\source\repos\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.deps.json
+C:\Users\Admin\source\repos\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.runtimeconfig.json
+C:\Users\Admin\source\repos\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.dll
+C:\Users\Admin\source\repos\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.pdb
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.Form1.resources
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.dll
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\refint\ListOperations.dll
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.pdb
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ListOperations\ListOperations\obj\Debug\net8.0-windows\ref\ListOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.exe
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.deps.json
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.runtimeconfig.json
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\bin\Debug\net8.0-windows\ListOperations.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.Form1.resources
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\refint\ListOperations.dll
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.pdb
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ListOperations.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EAD\Lecture Notes\c8\class codes\ListOperations\ListOperations\obj\Debug\net8.0-windows\ref\ListOperations.dll
